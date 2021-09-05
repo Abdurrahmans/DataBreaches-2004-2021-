@@ -15,4 +15,4 @@ Organization type: Which sector does the organization belong to
 Method: Was it hacked? Were the files lost? Was it an inside job?
 Here is the source for the dataset: https://en.wikipedia.org/wiki/List_of_data_breaches
 
-Here is the GitHub link for a guide on how it was scraped: https://github.com/hishaamarmghan/Data-Breaches-Scraping-Cleaning
+
